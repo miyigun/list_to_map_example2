@@ -61,16 +61,6 @@ class AllPage extends StatelessWidget {
                 height: 15,
               ),
               Text(
-                "${controller.map1}",
-                style: const TextStyle(
-                  fontWeight: FontWeight.bold,
-                  fontSize: 10,
-                ),
-              ),
-              const SizedBox(
-                height: 15,
-              ),
-              Text(
                 "${controller.map3}",
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
