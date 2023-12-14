@@ -21,7 +21,7 @@ class AllPage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "Length of List: ${length[0]}",
+                "Pressed to ${length[1]}",
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 24,
@@ -31,7 +31,7 @@ class AllPage extends StatelessWidget {
                 height: 15,
               ),
               Text(
-                "Pressed to ${length[1]}",
+                "Length of List: ${length[0]}",
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 24,
