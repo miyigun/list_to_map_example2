@@ -71,7 +71,7 @@ class AllPage extends StatelessWidget {
                 height: 15,
               ),
               Text(
-                "${controller.map4.toList().length}",
+                "${controller.map3.toList().length}",
                 style: const TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 10,

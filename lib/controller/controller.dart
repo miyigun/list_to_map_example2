@@ -6,6 +6,4 @@ class Controller {
   var map2 = students.asMap().entries.map((e) => e.value);
 
   var map3 = students.asMap().entries.map((e) => e.key);
-
-  var map4 = students.asMap().entries.map((e) => e.key);
 }
